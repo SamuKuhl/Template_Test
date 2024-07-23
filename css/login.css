@@ -294,4 +294,16 @@ a {
     letter-spacing: 0;
     line-height: normal;
   }
-  
+  .footer {
+    background-color: #f8f9fa;
+    padding: 20px 0;
+    text-align: center;
+    box-shadow: 0 -2px 4px rgba(0, 0, 0, 0.1);
+    margin-top: 40px;
+}
+
+.footer p {
+    margin: 0;
+    color: #555;
+    font-size: 14px;
+}
